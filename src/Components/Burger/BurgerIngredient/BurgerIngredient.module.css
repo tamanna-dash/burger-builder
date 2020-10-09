@@ -1,0 +1,333 @@
+.BreadTop{
+    width: 480px;
+    height: 100px;
+    background-image: linear-gradient(rgb(139, 84, 0), rgb(185, 112, 1),  rgb(235, 142, 4));
+    margin: 6px auto;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-right: 20px solid rgb(170, 80, 11);
+    position: relative;
+}
+
+.Seeds1{
+    position: absolute;
+    width: 7%;
+    top: 20%;
+    left: 20%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(20deg);
+}
+.Seeds2{
+    position: absolute;
+    width: 7%;
+    top: 80%;
+    left: 10%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(140deg);
+}
+.Seeds3{
+    position: absolute;
+    width: 7%;
+    top: 60%;
+    left: 90%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(-140deg);
+}
+.Seeds4{
+    position: absolute;
+    width: 7%;
+    top: 70%;
+    left: 40%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(-20deg);
+}
+.Seeds5{
+    position: absolute;
+    width: 7%;
+    top: 20%;
+    left: 70%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(170deg);
+}
+.Seeds6{
+    position: absolute;
+    width: 7%;
+    top: 50%;
+    left: 50%;
+    height: 5%;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    transform: rotate(30deg);
+}
+
+.Pepper1{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper2{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper3{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 80%;
+    left: 40%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper4{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper5{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 30%;
+    left: 85%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper6{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 90%;
+    left: 90%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper7{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper8{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 80%;
+    left: 31%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+.Pepper9{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 70%;
+    left: 70%;
+    border-radius: 50%;
+    background-color: rgb(77, 37, 19);
+}
+
+.Herbs1{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 76%;
+    left: 60%;
+    border-radius: 50%;
+    background-color: rgb(25, 95, 23); 
+}
+.Herbs2{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 40%;
+    left: 36%;
+    border-radius: 50%;
+    background-color: rgb(25, 95, 23); 
+}
+.Herbs4{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 56%;
+    left: 10%;
+    border-radius: 50%;
+    background-color: rgb(25, 95, 23); 
+}
+.Herbs5{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 66%;
+    left: 25%;
+    border-radius: 50%;
+    background-color: rgb(25, 95, 23); 
+}
+.Herbs6{
+    width: 1%;
+    height: 3%;
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    border-radius: 50%;
+    background-color: rgb(25, 95, 23); 
+}
+
+.Cheese{
+    width: 530px;
+    height: 15px;
+    /* background-color: rgb(230, 207, 7); */
+    background-image: linear-gradient(yellow,rgb(228, 228, 164));
+    margin: auto;
+    margin-bottom: 6px;
+    border-top-left-radius: 60%;
+    border-bottom-right-radius: 60%;
+}
+
+.Salad{
+    width: 570px;
+    height: 20px;
+    /* background-color: rgb(230, 207, 7); */
+    background-image: linear-gradient(rgb(0, 112, 37),rgb(42, 190, 79));
+    margin: auto;
+    margin-bottom: 6px;
+    border-radius: 50px;
+}
+.Meat{
+    width: 500px;
+    height: 60px;
+    background-color: rgb(92, 47, 18);
+    margin: auto;
+    margin-bottom: 6px;
+    border-radius: 20px;
+    position: relative;
+}
+
+.Bacon{
+    width: 530px;
+    height: 20px;
+    background-image: linear-gradient(to right, rgb(235, 203, 162), rgb(241, 187, 115), rgb(235, 175, 97));
+    margin: auto;
+    margin-bottom: 6px;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.BreadBottom{
+    width: 480px;
+    height: 70px;
+    background-image: linear-gradient( rgb(235, 142, 4), rgb(185, 112, 1),rgb(139, 84, 0) );
+    margin: 6px auto;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-right: 20px solid rgb(170, 80, 11);
+    border-top: 2px solid rgb(170, 80, 11);
+}
+
+@media only screen and (max-width: 650px) {
+    .BreadTop{
+        width: 400px;
+    }
+    .BreadBottom{
+        width: 400px;
+    }
+    .Meat{
+        width: 400px;
+    }
+    .Salad{
+        width: 470px;
+    }
+    .Cheese{
+        width: 430px;
+    }
+    .Bacon{
+        width: 430px;
+    }
+}
+@media only screen and (max-width: 545px) {
+    .BreadTop{
+        width: 350px;
+    }
+    .BreadBottom{
+        width: 350px;
+    }
+    .Meat{
+        width: 350px;
+    }
+    .Salad{
+        width: 370px;
+    }
+    .Cheese{
+        width: 380px;
+    }
+    .Bacon{
+        width: 380px;
+    }
+}
+@media only screen and (max-width: 450px) {
+    .BreadTop{
+        width: 280px;
+    }
+    .BreadBottom{
+        width: 280px;
+    }
+    .Meat{
+        width: 280px;
+    }
+    .Salad{
+        width: 300px;
+    }
+    .Cheese{
+        width: 310px;
+    }
+    .Bacon{
+        width: 320px;
+    }
+}
+
+
+@media only screen and (max-width: 359px) {
+    .BreadTop{
+        width: 200px;
+    }
+    .BreadBottom{
+        width: 200px;
+    }
+    .Meat{
+        width: 200px;
+    }
+    .Salad{
+        width: 220px;
+    }
+    .Cheese{
+        width: 230px;
+    }
+    .Bacon{
+        width: 240px;
+    }
+}

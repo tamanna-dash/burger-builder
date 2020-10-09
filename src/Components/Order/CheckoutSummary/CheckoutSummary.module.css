@@ -1,0 +1,12 @@
+.CheckoutSummary{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.Burger{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
